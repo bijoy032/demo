@@ -1,2 +1,1 @@
-console.log("Hello world");
-console.log("demo branch");
+console.log('Hello world');
